@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Exams: Quiz #3 Solutions.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2002/868f2dd707025f9f41ec3d5be281aab1_quiz3sol.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/868f2dd707025f9f41ec3d5be281aab1_quiz3sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz3sol.pdf
 uid: 868f2dd7-0702-5f9f-41ec-3d5be281aab1

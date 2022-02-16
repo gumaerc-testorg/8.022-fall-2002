@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Exams: Quiz #2'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-022-physics-ii-electricity-and-magnetism-fall-2002/9cf2c88e85a5922a32376cfba35ea9c2_8022quiz2_final.pdf
+file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/9cf2c88e85a5922a32376cfba35ea9c2_8022quiz2_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 8022quiz2_final.pdf
 uid: 9cf2c88e-85a5-922a-3237-6cfba35ea9c2
