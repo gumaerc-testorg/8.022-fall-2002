@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fd665869-1d57-6230-3062-6af02a9fd21c
 resourcetype: Document
 title: quiz2eqnrev.pdf
 uid: d7a9de21-c0de-06e8-139b-2c42e5367b4b

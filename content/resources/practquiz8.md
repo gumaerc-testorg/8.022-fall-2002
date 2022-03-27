@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: edc45e45-aea0-5c85-a011-76221ae822b3
 resourcetype: Document
 title: practquiz8.pdf
 uid: 59edce00-9b21-de52-c2e0-716da4a47962
