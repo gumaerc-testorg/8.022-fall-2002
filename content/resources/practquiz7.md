@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Study Materials: Practice Quiz Week #7.'
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/e6a2cbcb599bec21d846eba75b070c51_practquiz7.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/e6a2cbcb599bec21d846eba75b070c51_practquiz7.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: practquiz7.pdf
 uid: e6a2cbcb-599b-ec21-d846-eba75b070c51
 ---
+Study Materials: Practice Quiz Week #7.
+

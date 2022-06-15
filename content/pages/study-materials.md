@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -32,10 +33,10 @@ Solutions
 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/practquiz6))
+({{% resource_link c557e89f-cd74-0541-84d6-7b0e3f879d4d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/practquiz6_solutions))
+({{% resource_link 39ae623c-2a90-220b-7b11-601f34d4bc2b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,10 +45,10 @@ Solutions
 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/practquiz7))
+({{% resource_link e6a2cbcb-599b-ec21-d846-eba75b070c51 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/practquiz7_solutions))
+({{% resource_link 42cc8cbf-4ccf-9baf-5f90-5f8b488c0491 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,10 +57,10 @@ Solutions
 8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/practquiz8))
+({{% resource_link 59edce00-9b21-de52-c2e0-716da4a47962 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/practquiz8_solutions))
+({{% resource_link a0aa8942-5832-f125-c0c7-9c901c4d5569 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,10 +69,10 @@ Solutions
 9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/practquiz9))
+({{% resource_link 1aac270d-467c-4ede-3e58-097944560f0b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz9solution))
+({{% resource_link 31ba195f-7727-1e85-af0b-34fe940fab1e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

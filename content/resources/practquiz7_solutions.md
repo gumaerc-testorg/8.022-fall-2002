@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Study Materials: Solutions for Practice Quiz #7.'
-file: /media/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/42cc8cbf4ccf9baf5f905f8b488c0491_practquiz7_solutions.pdf
+file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/42cc8cbf4ccf9baf5f905f8b488c0491_practquiz7_solutions.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: practquiz7_solutions.pdf
 uid: 42cc8cbf-4ccf-9baf-5f90-5f8b488c0491
 ---
+Study Materials: Solutions for Practice Quiz #7.
+
