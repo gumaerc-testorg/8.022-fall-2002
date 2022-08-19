@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/d7a9de21c0de
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz2eqnrev.pdf
 uid: d7a9de21-c0de-06e8-139b-2c42e5367b4b
 ---
 Exams: Quiz #2 Related Equations.
-

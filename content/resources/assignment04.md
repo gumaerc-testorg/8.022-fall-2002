@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/7e0e53f2755c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment04.pdf
 uid: 7e0e53f2-755c-987a-5e95-ae33b74f8c9e
 ---
 Conductors, Capacitance Current, Resistance, Ohm's Law.
-

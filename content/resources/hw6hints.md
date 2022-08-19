@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/cf6d48178c73
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6hints.pdf
 uid: cf6d4817-8c73-3f6c-24b5-6f09e0aa7c42
 ---
 Hints to Assignment #6.
-

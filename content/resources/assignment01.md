@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/a7f2da25fe70
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment01.pdf
 uid: a7f2da25-fe70-7197-8c09-53c3f2e6a0c0
 ---
 Introduction and Review Coulomb's Law, Superposition, Electric Fields.
-

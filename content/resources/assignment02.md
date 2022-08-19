@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/46c6517f599a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment02.pdf
 uid: 46c6517f-599a-f929-cc5d-0cba9cf04a2b
 ---
 Field Lines, Electric Flux, Gauss' Law Work, Energy of Fields, Potential.
-

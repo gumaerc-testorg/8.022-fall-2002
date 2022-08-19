@@ -6,6 +6,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/b94f2d86cfa7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment08.pdf
 uid: b94f2d86-cfa7-be24-7b67-d5624993f6fb
 ---
 Fields of Moving Charges, Lorentz force, Magnetic Field, Biot-Savart, Ampere's Law, Vector Potential.
-

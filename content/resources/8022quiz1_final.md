@@ -5,6 +5,7 @@ file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/2a6ddce8efcc
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8022quiz1_final.pdf
 uid: 2a6ddce8-efcc-5065-7eab-bb459086cfd4
 ---
 Exams: Quiz #1.
-

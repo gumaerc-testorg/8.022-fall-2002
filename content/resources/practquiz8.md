@@ -4,6 +4,7 @@ description: 'Study Materials: Practice Quiz Week #8.'
 file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/59edce009b21de52c2e0716da4a47962_practquiz8.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: practquiz8.pdf
 uid: 59edce00-9b21-de52-c2e0-716da4a47962
 ---
 Study Materials: Practice Quiz Week #8.
-
