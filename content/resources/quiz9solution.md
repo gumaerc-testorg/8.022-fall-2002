@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Solutions to practice quiz for week #9'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/31ba195f77271e85af0b34fe940fab1e_quiz9Solution.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/31ba195f77271e85af0b34fe940fab1e_quiz9Solution.pdf
+file_size: 33112
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

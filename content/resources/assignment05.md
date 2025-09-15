@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Current, Resistance, Ohm's Law EMF, Circuits, Kirchhoff's Rules, RC Circuits.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/37ec57887bbcdcef0e930bbf2d27a5be_assignment05.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/37ec57887bbcdcef0e930bbf2d27a5be_assignment05.pdf
+file_size: 182586
 file_type: application/pdf
 learning_resource_types:
 - Assignments

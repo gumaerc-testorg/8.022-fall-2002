@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Field Lines, Electric Flux, Gauss' Law Work, Energy of Fields, Potential.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/46c6517f599af929cc5d0cba9cf04a2b_assignment02.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/46c6517f599af929cc5d0cba9cf04a2b_assignment02.pdf
+file_size: 192103
 file_type: application/pdf
 learning_resource_types:
 - Assignments

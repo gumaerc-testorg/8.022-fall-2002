@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Exams: Quiz #3'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/90f5e8ee6ccd4620b151149188bb7a4d_8022quiz3_final.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/90f5e8ee6ccd4620b151149188bb7a4d_8022quiz3_final.pdf
+file_size: 92527
 file_type: application/pdf
 learning_resource_types:
 - Exams

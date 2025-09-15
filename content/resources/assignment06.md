@@ -2,7 +2,8 @@
 content_type: resource
 description: Spacetime in Special Relativity and review on Current, Resistance, Ohm's
   Law EMF, Circuits, Kirchhoff's Rules, RC Circuits.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/9abae1847ba391aa8d4a8da371a507d9_assignment06.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/9abae1847ba391aa8d4a8da371a507d9_assignment06.pdf
+file_size: 247842
 file_type: application/pdf
 learning_resource_types:
 - Assignments

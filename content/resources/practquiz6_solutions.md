@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Study Materials: Solutions for Practice Quiz #6.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/39ae623c2a90220b7b11601f34d4bc2b_practquiz6_solutions.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/39ae623c2a90220b7b11601f34d4bc2b_practquiz6_solutions.pdf
+file_size: 117988
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

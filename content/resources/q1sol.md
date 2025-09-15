@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Exams: Quiz #1 Solutions.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/3be23f5f36efb5f5a4c55fa5ccbeec07_q1sol.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/3be23f5f36efb5f5a4c55fa5ccbeec07_q1sol.pdf
+file_size: 1461113
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Conductors, Capacitance Current, Resistance, Ohm's Law.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/7e0e53f2755c987a5e95ae33b74f8c9e_assignment04.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/7e0e53f2755c987a5e95ae33b74f8c9e_assignment04.pdf
+file_size: 166488
 file_type: application/pdf
 learning_resource_types:
 - Assignments

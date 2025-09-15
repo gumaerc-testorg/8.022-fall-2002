@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: RLC Circuits, Displacement Current, Electromagnetic Waves.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/30cf54745436a57a01c8942b9fa95266_assignment11.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/30cf54745436a57a01c8942b9fa95266_assignment11.pdf
+file_size: 190794
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: Spacetime in Special Relativity, Forces, Momenta, Fields, Energies in
   Special Relativity, Fields of Moving Charges.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/7d7aae8e688dbcb74f30028a05244f44_assignment07.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/7d7aae8e688dbcb74f30028a05244f44_assignment07.pdf
+file_size: 174302
 file_type: application/pdf
 learning_resource_types:
 - Assignments

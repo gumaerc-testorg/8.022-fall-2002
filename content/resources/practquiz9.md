@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Study Materials: Practice Quiz Week #9.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/1aac270d467c4ede3e58097944560f0b_practquiz9.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/1aac270d467c4ede3e58097944560f0b_practquiz9.pdf
+file_size: 35383
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

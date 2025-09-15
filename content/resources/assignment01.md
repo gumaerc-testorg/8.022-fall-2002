@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Introduction and Review Coulomb's Law, Superposition, Electric Fields.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/a7f2da25fe7071978c0953c3f2e6a0c0_assignment01.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/a7f2da25fe7071978c0953c3f2e6a0c0_assignment01.pdf
+file_size: 146346
 file_type: application/pdf
 learning_resource_types:
 - Assignments

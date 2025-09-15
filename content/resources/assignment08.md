@@ -2,7 +2,8 @@
 content_type: resource
 description: Fields of Moving Charges, Lorentz force, Magnetic Field, Biot-Savart,
   Ampere's Law, Vector Potential.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/b94f2d86cfa7be247b67d5624993f6fb_assignment08.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/b94f2d86cfa7be247b67d5624993f6fb_assignment08.pdf
+file_size: 243334
 file_type: application/pdf
 learning_resource_types:
 - Assignments

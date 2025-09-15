@@ -2,7 +2,8 @@
 content_type: resource
 description: Biot-Savart and Ampere's Laws, Faraday's Law of Induction, Mutual and
   Self Inductance.
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/e2429a8ac4735ab92a2004804ab655a6_assignment09.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/e2429a8ac4735ab92a2004804ab655a6_assignment09.pdf
+file_size: 262391
 file_type: application/pdf
 learning_resource_types:
 - Assignments

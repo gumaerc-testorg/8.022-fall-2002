@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Hints to Assignment #4.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/d3e5538845574c84f6c2ce35f0c91876_hw4hints.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/d3e5538845574c84f6c2ce35f0c91876_hw4hints.pdf
+file_size: 115327
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Exams: Quiz #2 Related Equations.'
-file: /courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/d7a9de21c0de06e8139b2c42e5367b4b_quiz2eqnrev.pdf
+file: /ol-ocw-studio-app/courses/8-022-physics-ii-electricity-and-magnetism-fall-2002/d7a9de21c0de06e8139b2c42e5367b4b_quiz2eqnrev.pdf
+file_size: 60604
 file_type: application/pdf
 learning_resource_types:
 - Exams
